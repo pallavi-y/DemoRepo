@@ -1,3 +1,7 @@
 This is a demo of git
+<<<<<<< HEAD
 
 second commit
+=======
+this is an extension
+>>>>>>> 0c3c3a869a0685ac52854d6bcbbc76cd57685242
